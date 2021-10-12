@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @knightrider-ux
 - 👀 I’m interested in Game developing 
-- 🌱 I’m currently learning Android studio
 - 📫 How to reach me ... Email id - yadavanshoo123@gmail.com
 
 <!---
