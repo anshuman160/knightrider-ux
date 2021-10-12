@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anshuman Yadav
 - 👀 I’m interested in Game developing 
 - 📄 Know about my experiences here
-- 
--⚡ Fun fact I pretend I'm a good gamer (I'm not)
+- ⚡ Fun fact I pretend I'm a good gamer (I'm not)
 - 📫 How to reach me ... Email id - yadavanshoo123@gmail.com
 
 <!---
